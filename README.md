@@ -1,2 +1,0 @@
-# datasciencecoursera
-assignment part
